@@ -9,4 +9,4 @@ A dark side-scroller: stay in the shadow, reach the rainbow crystal. Set in The 
 
 Includes or adapts assets from The Seeker by The Seeker contributors, licensed CC BY 4.0
 (https://github.com/TheSeekerGame/the-seeker). Changes were made where applicable.
-Add your own license for the code (e.g. MIT) before publishing.
+
